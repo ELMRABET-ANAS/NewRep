@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="new html page.html" />
+    <Content Include="new JavaScript file.js" />
     <Content Include="Web.config" />
     <Content Include="WebForm.aspx" />
   </ItemGroup>
